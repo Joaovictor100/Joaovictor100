@@ -1,3 +1,3 @@
-### Olá! João Victor 👋🏻
+### Olá! Eu sou João Victor 👋🏻
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+Estudante de Desenvolvimento de Sistemas, tenho muito interesse **Data Science**, 
