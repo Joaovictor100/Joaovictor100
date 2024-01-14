@@ -6,7 +6,7 @@
 
 ![João Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
-## Linguagens
+Tecnologia que uso no meu dia
 
 <div style="display: flex; justify-content: center;">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
