@@ -6,4 +6,6 @@
 
 ![João Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
+## Linguagens
+
 Estudante de Desenvolvimento de Sistemas, tenho muito interesse **Data Science**, uso muito **Python** para os meus projetos e estudos.
