@@ -18,4 +18,4 @@ Tecnologia que uso no meu dia
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </div><br>
 
-Estudante de Desenvolvimento de Sistemas, tenho muito interesse **Data Science**, uso muito **Python** para os meus projetos e estudos.
+Estudante de Desenvolvimento de Sistemas, **Data Science**, uso muito **Python** para os meus projetos e estudos.
