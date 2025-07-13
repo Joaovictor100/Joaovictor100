@@ -13,5 +13,5 @@ Tecnologia que uso no meu dia
 <div style="display: flex; justify-content: center;">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C-239120?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=Assembly">
+  <img src="https://img.shields.io/badge/Assembly-grey?style=for-the-badge&logo=assembly">
 </div><br>
