@@ -1,4 +1,4 @@
-### Olá! Eu sou João Victor 👋🏻
+# Olá! Eu sou João Victor 👋🏻
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/joao_sts_100)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/jo%C3%A3o-victor-soares-toledo-silva-36368423b)
@@ -7,3 +7,9 @@
 ![João Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaovictor100&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovictor100&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## Ferramentas que uso no meu dia a dia
+<section style="display:flex;justify-content:left">
+  <div style="background:gray; padding:10px;color:white;">
+    ASSEMBLY
+  </div>
+</section>
