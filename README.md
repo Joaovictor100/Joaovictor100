@@ -19,5 +19,5 @@ Tenho formação técnica em **Desenvolvimento de Sistemas** e, ao longo da minh
 #### Objetivos 🎯
 
 
-Ingressar na área da tecnologia, adquirindo novas conquistas em Análise e Desenvolvimento de Sistemas e Segurança Cibernética, conhecendo cada vez mais o mundo tecnologico.
+Entrar no campo da tecnologia, trabalhando na Análise e Desenvolvimento de Sistemas, com foco em Segurança Cibernética. Procuro utilizar meus conhecimentos técnicos, crescer profissionalmente e colaborar na criação de soluções eficazes.
 
