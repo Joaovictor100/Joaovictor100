@@ -6,6 +6,10 @@ Tenho formação técnica em **Desenvolvimento de Sistemas** e, ao longo da minh
 #### Tecnologias do meu dia a dia
 <p>
   <img src="C_Logo.png" width="40">
-  <img src="177">
-</p>
+  <img src="asm.png" width="40">
+  <img src="python.webp" width="40">
+  <img src="html.webp" width="40">
+  <img src="css.webp" width="40">
+  <img src="javascript.webp" width="40">
+</p> 
 
