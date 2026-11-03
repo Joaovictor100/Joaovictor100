@@ -3,9 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Jo%C3%A3o%20Victor&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20%7C%20Eterno%20Aprendiz&descAlignY=58&descSize=20" alt="Banner" />
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Olá%2C+eu+sou+o+João+Victor+👋;Apaixonado+por+tecnologia+💻;Sempre+aprendendo+algo+novo+🚀;Vamos+construir+algo+incrível+juntos!" alt="Typing SVG" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=joaovictor100&label=Visitas&color=0e75b6&style=flat" alt="Contador de visitas" />
