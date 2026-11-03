@@ -42,18 +42,17 @@
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=joaovictor100&theme=tokyonight&hide_border=true" alt="SEU-USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=joaovictor100&theme=tokyonight&hide_border=true" alt="Joaovictor100" target="_blank">
   <br>
-  <a href="mailto:seuemail@exemplo.com">
+  <br>
+  <a href="https://www.linkedin.com/in/joão-victor-soares-36368423b?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto: joaovictorsts100@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://instagram.com/SEU-USUARIO" target="_blank">
+  <a href="https://instagram.com/_jv.soarezz_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://wa.me/55SEUNUMERO" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
 
