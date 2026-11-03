@@ -55,12 +55,12 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/joaovictor100/leavix-TNL">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaovictor100&repo=python-tests&theme=tokyonight&hide_border=true" alt="Projeto 1" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaovictor100&repo=leavix-TNL&theme=tokyonight&hide_border=true" alt="leavix-TNL" />
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/joaovictor100/NOME-DO-REPOSITORIO-2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaovictor100&repo=NOME-DO-REPOSITORIO-2&theme=tokyonight&hide_border=true" alt="Projeto 2" />
+      <a href="https://github.com/joaovictor100/python-tests">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaovictor100&repo=python-tests&theme=tokyonight&hide_border=true" alt="python-tests" />
       </a>
     </td>
   </tr>
