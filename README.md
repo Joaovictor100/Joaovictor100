@@ -16,11 +16,9 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🔭 Atualmente trabalhando em: **seus projetos atuais aqui**
-- 🌱 Estudando: **tecnologias que você está aprendendo**
-- 🎯 Objetivo: **evoluir como desenvolvedor e criar soluções que fazem diferença**
-- 💬 Pergunte-me sobre: **suas áreas de conhecimento**
-- ⚡ Curiosidade: **conte algo divertido sobre você**
+- 🔭 Atualmente trabalhando em: **Leavix-TNL**
+- 🌱 Estudando: **Vulnerabilidade, redes, Assembly**
+- 🎯 Objetivo: **Evoluir como desenvolvedor e criar soluções que fazem diferença**
 
 <!-- Dica: coloque uma imagem ou GIF seu aqui (setup, avatar, memoji...)
 <p align="center">
@@ -33,7 +31,7 @@
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,react,nodejs,git,github,vscode,linux&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,assembly,java,git,github,vscode,linux&theme=dark" alt="Skills" />
 </p>
 
 <!-- Edite a lista em `i=` com os ícones que você usa. Veja todos em [skillicons.dev](https://skillicons.dev).-->
@@ -44,16 +42,7 @@
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=joaovictor100&theme=tokyonight&hide_border=true" alt="Streak" />
-</p>
-
-
----
-
-## 📫 Vamos conversar?
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/SEU-USUARIO" target="_blank">
+  <img src="https://streak-stats.demolab.com?user=joaovictor100&theme=tokyonight&hide_border=true" alt="SEU-USUARIO" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:seuemail@exemplo.com">
