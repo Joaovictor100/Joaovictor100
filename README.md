@@ -54,8 +54,8 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/joaovictor100/NOME-DO-REPOSITORIO-1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaovictor100&repo=NOME-DO-REPOSITORIO-1&theme=tokyonight&hide_border=true" alt="Projeto 1" />
+      <a href="https://github.com/joaovictor100/leavix-TNL">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaovictor100&repo=python-tests&theme=tokyonight&hide_border=true" alt="Projeto 1" />
       </a>
     </td>
     <td align="center" width="50%">
