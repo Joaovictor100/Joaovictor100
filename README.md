@@ -31,7 +31,7 @@
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,assembly,java,git,github,vscode,linux&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,nasm,java,git,github,vscode,linux&theme=dark" alt="Skills" />
 </p>
 
 <!-- Edite a lista em `i=` com os ícones que você usa. Veja todos em [skillicons.dev](https://skillicons.dev).-->
