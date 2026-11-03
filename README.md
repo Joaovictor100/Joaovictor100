@@ -6,6 +6,7 @@
 
 
 <p align="center">
+  <br>
   <img src="https://komarev.com/ghpvc/?username=joaovictor100&label=Visitas&color=0e75b6&style=flat" alt="Contador de visitas" />
   <img src="https://img.shields.io/github/followers/joaovictor100?label=Seguidores&style=flat&logo=github&color=2c5364" alt="Seguidores" />
   <img src="https://img.shields.io/github/stars/joaovictor100?label=Stars&style=flat&logo=github&color=2c5364" alt="Stars" />
@@ -41,10 +42,6 @@
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=joaovictor100&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictor100&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=joaovictor100&theme=tokyonight&hide_border=true" alt="Streak" />
