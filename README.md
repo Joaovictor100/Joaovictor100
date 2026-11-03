@@ -4,6 +4,7 @@
 </h1>
 
 
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=joaovictor100&label=Visitas&color=0e75b6&style=flat" alt="Contador de visitas" />
   <img src="https://img.shields.io/github/followers/joaovictor100?label=Seguidores&style=flat&logo=github&color=2c5364" alt="Seguidores" />
@@ -34,7 +35,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,react,nodejs,git,github,vscode,linux&theme=dark" alt="Skills" />
 </p>
 
-> Edite a lista em `i=` com os ícones que você usa. Veja todos em [skillicons.dev](https://skillicons.dev).
+<!-- Edite a lista em `i=` com os ícones que você usa. Veja todos em [skillicons.dev](https://skillicons.dev).-->
 
 ---
 
@@ -68,7 +69,7 @@
   </tr>
 </table>
 
-> Troque `NOME-DO-REPOSITORIO-1` e `NOME-DO-REPOSITORIO-2` pelos nomes dos seus repositórios.
+<!-- Troque `NOME-DO-REPOSITORIO-1` e `NOME-DO-REPOSITORIO-2` pelos nomes dos seus repositórios.-->
 
 ---
 
@@ -89,8 +90,5 @@
   </a>
 </p>
 
-<p align="center">
-  <i>"O único modo de fazer um excelente trabalho é amar o que você faz."</i> ✨
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%" alt="Rodapé" />
